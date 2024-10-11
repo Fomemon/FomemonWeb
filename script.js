@@ -17,6 +17,7 @@ function playSong(){
     }
 }
 
+
 let babyAlive=true;
 
 const baby = document.querySelector(".littleShit")
